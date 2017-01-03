@@ -8,6 +8,6 @@
     "url": "https://github.com/chrisbreiding/ci-test.git"
   },
   "scripts": {
-    "test": "echo 'Tests passed!'"
+    "test": "node ./log-env.js && echo 'Tests passed!'"
   }
 }
