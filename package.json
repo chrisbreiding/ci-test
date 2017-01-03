@@ -1,0 +1,13 @@
+{
+  "name": "ci-test",
+  "private": true,
+  "version": "1.0.0",
+  "description": "For testing out CI providers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisbreiding/ci-test.git"
+  },
+  "scripts": {
+    "test": "echo 'Tests passed!'"
+  }
+}
